@@ -47,7 +47,7 @@ KVIQ-20/-10/-34:
 
 # Action Observation and Motor Imagery Ability Questionnaire (AOMI-AQ)
 
-Movement imagery is can also be used in combination with Action Observation (observing a movement), a procedure usually termed AOMI. [Schott et al. 2024](https://journals.humankinetics.com/view/journals/jsep/46/4/article-p191.xml) developed the AOMI-AQ, a resource to assess the ability to perform AOMI.
+Movement imagery can also be used in combination with Action Observation (observing a movement), a procedure usually termed AOMI. [Schott et al. 2024](https://journals.humankinetics.com/view/journals/jsep/46/4/article-p191.xml) developed the AOMI-AQ, a resource to assess the ability to perform AOMI.
 
 AOMI-AQ:
   - English: [Schott et al. 2024](https://journals.humankinetics.com/view/journals/jsep/46/4/article-p191.xml) | [Questionnaire link](https://osf.io/vbqjw/?view_only=3382b7e43a794ed78ea0c17a17eebe1f)
